@@ -1,4 +1,6 @@
-The program has been made in a linux operating system (Ubuntu 18.04).
+The OSFS method is used to obtain optimal segmentaions in Time Series taking into account the L-infinity norm.
+
+The program has been made in C++ in a linux operating system (Ubuntu 18.04).
 All the experiments were run using an Intel(R) Core(TM) i7-870 K CPU at 3.70GHz with 64GB of RAM
 
 To obtain the executable program follow the following steps:
